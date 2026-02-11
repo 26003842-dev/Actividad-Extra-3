@@ -1,0 +1,31 @@
+Resumen Unidad 2
+
+Para iniciar un programa es necesario entender algunos conceptos basicos.
+
+Las variables son espacios en memoria donde se guardan datos que pueden cambiar. Deben tener nombres claros, sin espacios, comenzar con letra y representar el valor que almacenan.
+
+Los tipos de datos indican que tipo de informacion guarda una variable. Los principales son:
+
+Numericos numeros enteros o decimales.
+Logicos o booleanos verdadero true o falso false.
+Caracter un solo simbolo.
+Cadena o String conjunto de caracteres o texto.
+
+Se pueden realizar operaciones aritmeticas como suma, resta, multiplicacion y division.
+
+Tambien existen operaciones comparativas que permiten comparar valores y obtener verdadero o falso.
+
+Las operaciones logicas como AND, OR y NOT permiten combinar condiciones.
+
+Se utilizan estructuras de control para tomar decisiones:
+
+if ejecuta codigo si una condicion es verdadera.
+if else permite elegir entre dos opciones.
+switch permite elegir entre varios casos.
+
+Existen bucles para repetir instrucciones:
+
+for repite una cantidad determinada de veces.
+while repite mientras una condicion sea verdadera.
+
+En esta unidad aprendimos como usar variables, tipos de datos, operadores, decisiones y repeticiones para comenzar a programar.

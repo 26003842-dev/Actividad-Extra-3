@@ -1,0 +1,21 @@
+Resumen – Unidad 1
+
+Las computadoras funcionan utilizando el sistema binario, que solo tiene dos números: 0 y 1. Estos representan los estados de los circuitos electrónicos (apagado y encendido). Todas las instrucciones que entiende una computadora están formadas por combinaciones de 0 y 1.
+
+Como las personas no usamos binario para comunicarnos, se creó un estándar llamado ASCII, que convierte letras, números y símbolos en código binario para que la computadora los pueda entender.
+
+La lógica es importante en programación porque trabaja con valores de verdadero (1) y falso (0). Se utilizan operaciones como:
+
+AND (Y)
+
+OR (O)
+
+NOT (NO)
+
+Un algoritmo es un conjunto de pasos ordenados y finitos para resolver un problema.
+
+La programación consiste en escribir esos pasos (algoritmos) en un lenguaje de programación, para que la computadora pueda ejecutarlos.
+
+Un programa es el resultado final: el algoritmo ya escrito en un lenguaje que la computadora entiende.
+
+Para escribir programas se utilizan herramientas como un IDE, que facilita el desarrollo y ayuda al programador a trabajar de manera más organizada y eficiente.

@@ -1,0 +1,13 @@
+Resumen Unidad 3
+
+Los controladores de versiones son programas que ayudan a llevar el control de los cambios que se realizan en un proyecto.
+
+Antes de usarlos, muchas personas guardaban varias copias de un mismo archivo con nombres diferentes como version1, version2 o final, lo que causaba confusion y desorden.
+
+Tambien surgian problemas cuando varias personas trabajaban en el mismo archivo, ya que era dificil unir todos los cambios correctamente.
+
+Para evitar estos problemas existen los controladores de versiones. Estas herramientas permiten guardar el historial de cambios, recuperar versiones anteriores y facilitar el trabajo en equipo.
+
+Algunos ejemplos son CVS, Apache Subversion, Mercurial y Git.
+
+Los controladores de versiones ayudan a mantener organizados los proyectos y facilitan el trabajo colaborativo.
